@@ -107,6 +107,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Project Maintainers - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/yourusername/scarlet](https://github.com/yourusername/scarlet)
+Project Maintainers - [bruno@lucena.cloud](mailto:bruno@lucena.cloud)
