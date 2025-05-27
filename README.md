@@ -1,7 +1,7 @@
 # Scarlet: Your K8s Cluster Co-Pilot 🤖✨
 
 
-**Meet Scarlet, this is a ambitions project of a intelligent agent living in your Kubernetes cluster that sounds like Scarlet Johanson. Its designed to empower engineers and 
+**Meet Scarlet, this ambitions project of a intelligent agent living in your Kubernetes cluster that sounds like Scarlet Johanson. Its designed to empower engineers and 
 streamline incident response.**
 
 Scarlet is your proactive partner, providing critical context, enabling swift actions, and offering seamless interaction to keep your cluster healthy and your applications running smoothly.
