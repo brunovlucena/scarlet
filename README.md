@@ -4,6 +4,8 @@
 
 Scarlet is your proactive partner, providing critical context, enabling swift actions, and offering seamless interaction to keep your cluster healthy and your applications running smoothly.
 
+Note: Scarlet is a homage to Scarlet Johanson.
+
 ---
 
 ## 🚀 What Scarlet Does
@@ -65,10 +67,28 @@ Scarlet aims to be an indispensable member of your DevOps team, learning and evo
 
 Scarlet consists of several key components:
 
-* **Platform Layer:** Core infrastructure services including monitoring (Prometheus, Grafana, Loki, Tempo)
-* **Notification Service:** Handles alerting and communication with engineers
-* **API Gateway:** Central entry point for all Scarlet interactions
-* **Mobile Application:** Companion app for engineers to receive alerts and interact with the cluster on-the-go
+- Kind
+- K8s
+- Observability (Loki, Tempo, Alloy, Prometheus)
+- Opik
+- MongoDb 
+- Llamma 4 (MCP Server, Go)
+- Pulumi (Go/IaC)
+- Kubecost
+- Kamaji (1 manager and 1 tennant)
+- ArgoCD MCP server
+- Grafana MCP server 
+- GitHub MCP server
+- MongoDB MCP Server
+- Cursor MCP Client (text)
+- KubeVox
+- Linkerd
+- LangGraph
+- Langchain
+- FastAPI
+- Websocket
+- RAG
+- Vector DBs
 
 ---
 
