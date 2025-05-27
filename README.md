@@ -13,7 +13,6 @@ Scarlet brings a new level of interaction and control to your Kubernetes environ
 * **🔍 Deep Contextual Awareness:** In the event of an incident, Scarlet doesn't just alert you; it dives deep! It accesses **Grafana, Prometheus, Kubernetes API, and more** to gather and present a comprehensive picture, giving engineers the immediate context needed to diagnose and resolve issues faster.
 * **📲 Proactive Incident Notification:** When trouble strikes, Scarlet can directly **call the engineer's Scarlet mobile app**, ensuring critical alerts are never missed.
 * **🔒 Secure Command Execution:** Need to run `kubectl` commands? Scarlet allows engineers to execute commands directly on the cluster, secured with **facial recognition** for an added layer of protection.
-* **🛠️ Custom Tool Integration:** Scarlet is extensible! It can seamlessly access and utilize your **custom tools and serverless functions (e.g., Knative services)**, bringing all your operational power into one interface.
 * **🗣️ Voice-Activated Interaction:** Communicate naturally. Scarlet understands **voice commands**, allowing engineers to query, instruct, and interact hands-free.
 * **📊 Cluster Health & Application Insights:** Stay informed! Scarlet provides on-demand **information about your cluster's health, application status, and performance metrics.**
 
@@ -66,7 +65,7 @@ Scarlet aims to be an indispensable member of your DevOps team, learning and evo
 
 Scarlet consists of several key components:
 
-* **Platform Layer:** Core infrastructure services including monitoring (Prometheus, Grafana, Loki, Tempo), messaging (RabbitMQ), and serverless capabilities (Knative)
+* **Platform Layer:** Core infrastructure services including monitoring (Prometheus, Grafana, Loki, Tempo)
 * **Notification Service:** Handles alerting and communication with engineers
 * **API Gateway:** Central entry point for all Scarlet interactions
 * **Mobile Application:** Companion app for engineers to receive alerts and interact with the cluster on-the-go
