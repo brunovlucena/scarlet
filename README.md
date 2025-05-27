@@ -81,7 +81,7 @@ The Scarlet mobile app is available for both iOS and Android, enabling:
 * Voice-activated cluster querying
 * Monitoring dashboard access
 
-*Mobile app download links will be available soon.*
+Note: This is a vision. *Mobile app download links will be available in my lifetime.*
 
 ---
 
