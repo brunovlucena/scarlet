@@ -6,7 +6,6 @@ streamline incident response.**
 
 Scarlet is your proactive partner, providing critical context, enabling swift actions, and offering seamless interaction to keep your cluster healthy and your applications running smoothly.
 
-
 ---
 
 ## 🚀 What Scarlet Does
